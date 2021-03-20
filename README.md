@@ -56,4 +56,4 @@ Forine.org (или же [Forine.net](http://forine.net)) это один из м
 
 ## Как скачать?
 
-Чтобы скачать архив с плагинами сервера просто перейдите в вкладку [releases](https://github.com/XFLOC/Forine.org-WEB/releases) и скачайте архив с файлами сайта.
+Чтобы скачать архив с плагинами сервера просто перейдите в вкладку [releases](https://github.com/XFLOC/Forine.org-Plugins/releases) и скачайте архив с файлами сайта.
