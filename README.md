@@ -42,7 +42,7 @@ Forine.org (или же [Forine.net](http://forine.net)) это один из м
 | ForineMessages     | Вывод информации везде, где есть возможность (BossBar/Title/Chat) |
 | ForineParkour  | Простой инструмент по настройке паркура         |
 | ForineParty     | Система пати (Party)    |
-| ForinePixelPay     | Плагин по выдоче доната |
+| ForinePixelPay     | Плагин по выдаче доната |
 | ForinePortals  | Установка порталов серверов         |
 | ForinePromo     | Карта с рекламой    |
 | ForineQuests     | Система заданий/челенджей по мини-играм |
