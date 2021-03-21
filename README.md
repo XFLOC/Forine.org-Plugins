@@ -43,17 +43,17 @@ Forine.org (или же [Forine.net](http://forine.net)) это один из м
 | ForineParkour  | Простой инструмент по настройке паркура         |
 | ForineParty     | Система пати (Party)    |
 | ForinePixelPay     | Плагин по выдаче доната |
-| ForinePortals  | Установка порталов серверов         |
+| ForinePortals  | Установка портала серверов         |
 | ForinePromo     | Карта с рекламой    |
 | ForineQuests     | Система заданий/челенджей по мини-играм |
 | ForineResourcepacks  | Установка ресурс пака сервера         |
 | ForineSettings  | Система настроек игрока в хабе/лобби         |
-| ForineSkinsModules  | Систему установки скинов на пират. аккаунте         |
+| ForineSkinsModules  | Система установки скинов на пират. аккаунте         |
 | ForineSQLConnection  | Плагин для связки других плагинов         |
 | ForineTags     | Система тэгов (префиксов)    |
 | ForineWorldGuard     | Некий ограничитель региона карты |
-| ForineYouTube  | Система под YT (оповещение об стрима)         |
+| ForineYouTube  | Система для YT (оповещение об стрима)         |
 
 ## Как скачать?
 
-Чтобы скачать архив с плагинами сервера просто перейдите в вкладку [releases](https://github.com/XFLOC/Forine.org-Plugins/releases) и скачайте архив с файлами сайта.
+Чтобы скачать архив с плагинами сервера просто перейдите в вкладку [releases](https://github.com/XFLOC/Forine.org-Plugins/releases) и скачайте архив.
